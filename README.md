@@ -69,7 +69,7 @@ B.Tech Information Technology
 
 Java Full Stack Developer | React.js & Spring Boot Enthusiast
 
-LinkedIn: Add Your LinkedIn Profile Link
+LinkedIn: https://www.linkedin.com/in/aishwarya6386/
 
 GitHub: https://github.com/aishwaryapratapsigh
 
