@@ -61,6 +61,10 @@ Add screenshots of your application here.
 * Subscription Plans
 * Video Streaming Integration
 
+#### Live Demo
+
+🌐 https://cinzey-ott.vercel.app/
+
 ## 👨‍💻 Author
 
 Aishwarya Pratap Singh
